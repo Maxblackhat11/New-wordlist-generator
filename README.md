@@ -1,6 +1,3 @@
-README.md
-
-Here's a basic README.md for your repository:
 
 # Wordlist Generator
 
